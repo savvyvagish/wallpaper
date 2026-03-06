@@ -1,0 +1,11 @@
+{
+  "servers": {
+    "reactbits": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "reactbits-dev-mcp-server@latest"
+      ]
+    }
+  }
+}
